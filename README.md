@@ -96,6 +96,17 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 ![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/TrendLines.png)
 
+## 📁 Folder Structure
+
+```plaintext
+├── Data/
+│   └── Datasets Folder
+├── Screenshots/
+│   └── Images Folder
+├── Dashboard/
+│   └──  Dashboard.xlsx
+├── README.md
+```
 
 ---
 

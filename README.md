@@ -59,49 +59,49 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 1. **KPIs** - Total Sales, Total Profit, Quantity, No. of Orders, Profit Margin
 
-![image](https://github.com/user-attachments/assets/9f9ce87e-8870-4d8c-818c-dc5696b15310)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/KPIs.png)
 
 
 2. **Sales and Profit Analysis** - Understanding overall sales and profitability
 
-![image](https://github.com/user-attachments/assets/0a235d2b-86c0-4c3b-91c0-65c0e5c36d73)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Sales%20vs%20Profit.png)
 
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
-![image](https://github.com/user-attachments/assets/361c30ab-280b-4d27-9ca9-cb071b12fee2)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Category%20wise%20Destribution.png)
 
 
 4. **Segment-wise Sales Share %** - Breakdown of sales by customer segment
 
-![image](https://github.com/user-attachments/assets/7fa3ba5b-177f-40b8-8fa0-10f1e94c0cf9)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Segment%20wise%20Destribution.png)
 
 
 5. **Sales by Country** - Sales performance based on different countries
 
-![image](https://github.com/user-attachments/assets/1074a818-8357-4a73-adf3-ae83c696eae7)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Country%20Wise%20Destribution.png)
 
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
 
-![image](https://github.com/user-attachments/assets/9662c7c6-982f-4665-8e6a-93da8f46a481)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Top%205%20Subcat.png)
 
 
 7. **Bottom 5 Subcategories** - The least-performing subcategories based on sales
 
-![image](https://github.com/user-attachments/assets/b0be7e56-ce2f-4394-9519-0e2b751196a5)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Bottom%205%20Subcat.png)
 
 
 8. **Yearly Sales Trend** - Understanding how sales evolve over the year
 
-![image](https://github.com/user-attachments/assets/30f81444-e021-470f-b340-06bd41aa0e76)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/TrendLines.png)
 
 
 ---
 
 ## Snapshot of the Dashboard
 
-![image](https://github.com/user-attachments/assets/fe996d48-4990-482b-986b-b3a7a654f749)
+![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Dashboard.png)
 
 ## Conclusion
 

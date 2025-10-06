@@ -64,32 +64,32 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 2. **Sales and Profit Analysis** - Understanding overall sales and profitability
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Sales%20vs%20Profit.png)
+<img src="https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Sales%20vs%20Profit.png" alt="Sales vs Profit" width="600"/>
 
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Category%20wise%20Destribution.png)
+<img src="https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Category%20wise%20Destribution.png" width="600"/>
 
 
 4. **Segment-wise Sales Share %** - Breakdown of sales by customer segment
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Segment%20wise%20Destribution.png)
+<img src="https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Segment%20wise%20Destribution.png" width="600"/>
 
 
 5. **Sales by Country** - Sales performance based on different countries
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Country%20Wise%20Destribution.png)
+<img src="https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Country%20Wise%20Destribution.png" width="600"/>
 
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Top%205%20Subcat.png)
+<img src="(https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Top%205%20Subcat.png" width="600"/>
 
 
 7. **Bottom 5 Subcategories** - The least-performing subcategories based on sales
 
-![image](https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Bottom%205%20Subcat.png)
+<img src="https://github.com/mohitrj02/Dynamic_Retail_Dashboard-Excel/blob/main/Images/Bottom%205%20Subcat.png" width="600"/>
 
 
 8. **Yearly Sales Trend** - Understanding how sales evolve over the year
